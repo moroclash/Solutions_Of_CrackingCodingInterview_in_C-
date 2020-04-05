@@ -9,6 +9,11 @@ namespace soltions
     /*
         Is Unique: Implement an algorithm to determine if a string has all unique characters. What if you
         cannot use additional data structures?
+     
+        book hints :
+        #44      : Try a hash table.  (i use it as Set in V3)
+        #117     : Could a bit vector be useful?  (i don't use it, but it's good for memory )
+        #132     : Can you solve it in O(N log N) time? What might a solution like that look like?   (sort string)
      */
     class Ch1_1_1
     {
