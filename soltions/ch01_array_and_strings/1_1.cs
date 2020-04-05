@@ -70,7 +70,7 @@ namespace soltions
             return true;
         }
 
-        static void Main(string[] args)
+        static void Main_1(string[] args)
         {
             String non_unique = "hellow";
             String unique = "abecd";
