@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/moroclash/.dotnet/store/|arch|/|tfm|",
+      "/home/moroclash/.nuget/packages"
+    ]
+  }
+}

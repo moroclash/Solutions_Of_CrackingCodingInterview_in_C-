@@ -1,0 +1,11 @@
+/home/moroclash/Videos/Code_sol_of_CrackingCodeingInterview/soltions/bin/Debug/netcoreapp2.2/soltions.deps.json
+/home/moroclash/Videos/Code_sol_of_CrackingCodeingInterview/soltions/bin/Debug/netcoreapp2.2/soltions.runtimeconfig.json
+/home/moroclash/Videos/Code_sol_of_CrackingCodeingInterview/soltions/bin/Debug/netcoreapp2.2/soltions.runtimeconfig.dev.json
+/home/moroclash/Videos/Code_sol_of_CrackingCodeingInterview/soltions/bin/Debug/netcoreapp2.2/soltions.dll
+/home/moroclash/Videos/Code_sol_of_CrackingCodeingInterview/soltions/bin/Debug/netcoreapp2.2/soltions.pdb
+/home/moroclash/Videos/Code_sol_of_CrackingCodeingInterview/soltions/obj/Debug/netcoreapp2.2/soltions.csprojAssemblyReference.cache
+/home/moroclash/Videos/Code_sol_of_CrackingCodeingInterview/soltions/obj/Debug/netcoreapp2.2/soltions.csproj.CoreCompileInputs.cache
+/home/moroclash/Videos/Code_sol_of_CrackingCodeingInterview/soltions/obj/Debug/netcoreapp2.2/soltions.AssemblyInfoInputs.cache
+/home/moroclash/Videos/Code_sol_of_CrackingCodeingInterview/soltions/obj/Debug/netcoreapp2.2/soltions.AssemblyInfo.cs
+/home/moroclash/Videos/Code_sol_of_CrackingCodeingInterview/soltions/obj/Debug/netcoreapp2.2/soltions.dll
+/home/moroclash/Videos/Code_sol_of_CrackingCodeingInterview/soltions/obj/Debug/netcoreapp2.2/soltions.pdb
