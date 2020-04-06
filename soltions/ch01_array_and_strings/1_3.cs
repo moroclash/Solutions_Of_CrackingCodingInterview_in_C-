@@ -42,6 +42,7 @@ namespace soltions
 
 
         //here we will replace in sender refrence 
+        // O(L)
         public static void ReplaceWightSpaces_V2(char[] s, int length){
           int spaces_cout=0;
           for (int i = 0; i < length; i++)  //O(L)
