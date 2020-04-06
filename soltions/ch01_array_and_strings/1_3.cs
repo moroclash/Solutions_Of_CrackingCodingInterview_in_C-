@@ -70,7 +70,7 @@ namespace soltions
         }
 
         
-        static void Main(string[] args)
+        static void Main_3(string[] args)
         {
             String s = " Mr John Smith      ";
             int len = 14;
