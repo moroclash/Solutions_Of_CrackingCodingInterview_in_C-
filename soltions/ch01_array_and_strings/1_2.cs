@@ -42,7 +42,7 @@ namespace soltions
             return true;
         }
 
-        //Using O( a * b )
+        //Using O( a * b )   
         //here we will use hashTable to access in O(1)
         public static bool IsHasAnyPermutation_V2(string s1 , string s2){
             if(s1.Length != s2.Length) return false;
@@ -69,11 +69,12 @@ namespace soltions
 
 
 
-        static void Main(string[] args)
+        static void Main_2(string[] args)
         {
             String s1= "edcbac";
             String s2 = "abccde";
-            
+
+
             /* #resion O(a^2 * b) implementation V1 */ 
             Console.WriteLine(IsHasAnyPermutation_V1(s1,s2));
             /* #endregion */
