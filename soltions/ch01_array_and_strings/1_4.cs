@@ -67,7 +67,7 @@ namespace soltions
 
 
         
-        static void Main(string[] args)
+        static void Main_4(string[] args)
         {
             String s = "tttto";
 
