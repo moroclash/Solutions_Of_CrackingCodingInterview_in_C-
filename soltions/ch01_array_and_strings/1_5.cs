@@ -74,7 +74,7 @@ namespace soltions
 
 
         
-        static void Main(string[] args)
+        static void Main_5(string[] args)
         {
             String s1 = "pale";
             String s2 = "bake";
