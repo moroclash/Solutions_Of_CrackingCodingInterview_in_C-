@@ -51,7 +51,7 @@ namespace soltions
 
 
         
-        static void Main(string[] args)
+        static void Main_6(string[] args)
         {
             String s = "abcdeaf";
 
