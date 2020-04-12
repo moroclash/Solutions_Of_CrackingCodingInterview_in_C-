@@ -63,7 +63,7 @@ namespace soltions
             return s2.Contains(s1);
         }
 
-        static void Main(string[] args)
+        static void Main_9(string[] args)
         {
             string s1 = "waterbottel";
             string s2 = "erbottelwat";
