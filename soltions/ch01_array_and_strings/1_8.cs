@@ -76,7 +76,7 @@ namespace soltions
             System.Console.WriteLine(sb.ToString());
         };
 
-        static void Main(string[] args)
+        static void Main_8(string[] args)
         {
             int[,] x1 = new int[3,3]{{1,2,3}, {4,5,0}, {7,8,9}};
             int[,] x2 = new int[3,4]{{1,2,3,4}, {5,0,7,8}, {9,10,0,12}};
