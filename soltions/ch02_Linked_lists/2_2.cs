@@ -158,7 +158,7 @@ namespace soltions
 
 
 
-        static void Main(string[] args)
+        static void Main_2(string[] args)
         {
             CustomelinkedList<int> l_list = new CustomelinkedList<int>();
             l_list.add(5);
