@@ -105,7 +105,7 @@ namespace soltions
 
 
 
-        static void Main(string[] args)
+        static void Main_3(string[] args)
         {
             CustomelinkedList<int> l_list = new CustomelinkedList<int>();
             l_list.add(5);
